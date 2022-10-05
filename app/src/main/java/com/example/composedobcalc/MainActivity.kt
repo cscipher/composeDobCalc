@@ -79,7 +79,7 @@ class MainActivity : ComponentActivity() {
         Scaffold(
             topBar = {
                 SmallTopAppBar(title = {
-                    Text("AppBar")
+                    Text("Appbar")
                 })
             },
             containerColor = Color(0xFFD4C2FC)
